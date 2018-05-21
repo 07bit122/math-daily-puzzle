@@ -1,0 +1,19 @@
+{
+  "name": "math-daily-puzzle",
+  "version": "1.0.0",
+  "description": "mean stack web application for the daily math puzzle website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "ashish addepalli",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
+  }
+}
